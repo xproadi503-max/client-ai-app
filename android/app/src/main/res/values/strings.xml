@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Client AI</string>
+    <string name="accessibility_description">Client AI reads incoming messages from WhatsApp, Telegram, and Instagram to suggest smart AI-powered replies. No data is stored or shared.</string>
+</resources>
